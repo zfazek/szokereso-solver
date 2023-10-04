@@ -9,7 +9,7 @@ public class Cell {
      * This cell is already used in the word.
      */
     boolean used;
-    
+
     /**
      * Character of the given cell.
      */
